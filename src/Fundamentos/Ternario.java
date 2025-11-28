@@ -13,7 +13,7 @@ public class Ternario {
         System.out.println("O aluno esta "+ resultadoFinal);
 
         double nota = 9.9;
-        boolean bomComportamento = false;
+        boolean bomComportamento = true;
         boolean passouPorMedia = nota >= 7;
         boolean temDesconto = bomComportamento && passouPorMedia;
         String resultado = temDesconto ? "Sim." : "Não.";

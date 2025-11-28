@@ -1,6 +1,6 @@
 package Desafios;
 
-public class DesafioTemperatura {
+public class DesafioTemperaturaFahrenheit {
     public static void main(String[] args) {
 
         double Fareheigh = 86;
