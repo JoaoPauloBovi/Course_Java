@@ -21,12 +21,6 @@ public class DesafioProdutoTeste {
         System.out.println("Valor do Mouse com desconto R$" + p2.precoDesconto());
         System.out.println("Valor do Teclado com desconto R$" + p3.precoDesconto());
 
-
-
-
     }
-
-
-
 
 }
